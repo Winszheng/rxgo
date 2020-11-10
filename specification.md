@@ -463,8 +463,8 @@ func TestSkip(t *testing.T) {
 
 #### 测试结果
 
-![image-20201110113153540](/home/wucp/.config/Typora/typora-user-images/image-20201110113153540.png)
+![image-20201110113153540](img/image-20201110113153540.png)
 
-![image-20201110113211942](/home/wucp/.config/Typora/typora-user-images/image-20201110113211942.png)
+![image-20201110113211942](img/image-20201110113211942.png)
 
 可见符合要求。
